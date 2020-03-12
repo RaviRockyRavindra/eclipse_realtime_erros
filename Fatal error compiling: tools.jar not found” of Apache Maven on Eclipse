@@ -1,0 +1,19 @@
+
+
+Refer 
+
+https://huongdanjava.com/fix-error-fatal-error-compiling-tools-jar-not-found-of-apache-maven-on-eclipse.html
+
+window-> preferences --> java --> Installed JRE's 
+
+then select target jre and edit the path
+
+box will be prompted which holds the JRE home & JRE name (fill the path exact values)
+
+click on add external jar --> select tools.jar from jdk/lib/tools.jar
+
+and complete the apply 
+
+
+
+                     :):) done with resolving
